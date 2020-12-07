@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinMessenger</string>
+    <string name="send">send</string>
+    <string name="template_text">Lorem ipsum</string>
+</resources>
