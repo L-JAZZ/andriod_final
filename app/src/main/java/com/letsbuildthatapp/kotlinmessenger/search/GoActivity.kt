@@ -34,6 +34,7 @@ class GoActivity : AppCompatActivity() {
         }
     }
 
+
     private fun fetchUsers(city: String) {
         val ref = FirebaseDatabase.getInstance().getReference("/users")
         ref.addListenerForSingleValueEvent(object: ValueEventListener {

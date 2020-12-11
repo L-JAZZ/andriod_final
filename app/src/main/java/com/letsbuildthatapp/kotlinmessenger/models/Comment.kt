@@ -6,5 +6,6 @@ data class Comment(
         val comment:String,
         val authorUserName:String
 ) {
+
     constructor() : this("", "", "", "")
 }

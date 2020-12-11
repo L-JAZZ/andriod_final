@@ -38,6 +38,7 @@ class UserProfileActivity : AppCompatActivity() {
 //        val ref = FirebaseDatabase.getInstance().getReference("/users/$uid").child("commentList").push()
 
 
+
 /*
         showComments(comm)
 */

@@ -31,6 +31,7 @@ class RegisterActivity : AppCompatActivity() {
       performRegister()
     }
 
+
     already_have_account_text_view.setOnClickListener {
       Log.d(TAG, "Try to show login activity")
 

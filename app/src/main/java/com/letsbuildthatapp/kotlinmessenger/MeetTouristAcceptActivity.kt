@@ -11,3 +11,4 @@ class MeetTouristAcceptActivity : AppCompatActivity() {
         setContentView(R.layout.activity_meet_tourist_accept)
     }
 }
+

@@ -33,6 +33,8 @@ class NewMessageActivity : AppCompatActivity() {
     fetchUsers()
   }
 
+
+
   private fun fetchUsers() {
     val ref = FirebaseDatabase.getInstance().getReference("/users")
     ref.addListenerForSingleValueEvent(object: ValueEventListener {

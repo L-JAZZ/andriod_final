@@ -10,6 +10,7 @@ class User(val uid: String,
            val profileImageUrl: String,
            val city: String,
            val phoneNumber: String,
+
            val commentsList: @RawValue List<Comment>
 ): Parcelable {
   constructor() : this("", "", "", "", "", emptyList())

@@ -35,6 +35,7 @@ class LatestMessagesActivity : AppCompatActivity() {
     recyclerview_latest_messages.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
 
     listenForLatestMessages()
+
     fetchCurrentUser()
     verifyUserIsLoggedIn()
 

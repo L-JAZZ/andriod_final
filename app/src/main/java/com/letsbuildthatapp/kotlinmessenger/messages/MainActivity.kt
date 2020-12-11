@@ -17,6 +17,7 @@ class MainActivity : AppCompatActivity() {
         toGo()
         toMeet()
         toProfile()
+
     }
     private fun toMessages(){
         btn_Messages.setOnClickListener {

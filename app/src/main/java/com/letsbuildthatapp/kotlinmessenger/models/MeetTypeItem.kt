@@ -7,5 +7,6 @@ data class MeetTypeItem(
         val transport: String,
         val hotel: String,
         val meal: String,
+
         val additional: String
 ) {constructor() : this("", "", "", "","", "", "") }
