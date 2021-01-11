@@ -1,5 +1,5 @@
-<a href="https://drive.google.com/file/d/1nFcFCX3Kb8aXnC7IZapeqOLHwLZaVYOl/view?usp=sharing"><h1> andriod_final</h1></a>
-
+<h1> andriod_final</h1>
+<p><a href="https://drive.google.com/file/d/1nFcFCX3Kb8aXnC7IZapeqOLHwLZaVYOl/view?usp=sharing">Link for presentation</a></p>
 Technical specifications for final project
 Description: This application is a prototype for a diploma project named “HeyGo”. The purpose of this application is to create a system in which a tourist can find a cheap of free guide that can show a tour in a city and tell detailed information about city. Application will give a choice to guide or to go. If you push “guide” you can see a list of people that want to visit your city and you can start chat with them. Or if you push “go” you can choose city and see a list of guides that can guide you.
 Technologies:
@@ -26,5 +26,8 @@ If user wants to be a guide he pushes “guide” button and can see a list of u
 4. User profile
 Here users can see and modify all information they entered in the registration.
 
-Note: Additional functionality will be added for both guide and tourist.
+Note: Full functionality of user wont be available if you created account without image 
+such functions like chat, comments wont work. Will be fixed in next updates 
+
+
 
